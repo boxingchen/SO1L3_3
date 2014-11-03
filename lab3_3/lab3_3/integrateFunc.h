@@ -1,4 +1,4 @@
 #include <math.h>
 
-double integrateFunc(double start, double end,  int segments);
-double func(double position);
+double integrateFunc(double, double,  int);			// function prototypes
+double func(double);
